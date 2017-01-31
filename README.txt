@@ -1,23 +1,27 @@
 CPSC 473 - Web Front-End Engineering for Internet Applications
-Assignment 2 - Spring 2017
-Section 2 due February 6.  Section 1 due February 8.
-In this assignment, you will work through Chapters 3 and 4 of the textbook, upload the result to GitHub, and play some games designed to teach you CSS.
+Assignment 1 - Spring 2017
+Section 2 due January 30.  Section 1 due February 1.
+In this first assignment, you will work through Chapters 1 and 2 of the textbook and upload the result to GitHub.
 Complete the following:
-Work through Chapters 3 and 4, copying in files from front-end-dev-resources and updating files as necessary.
-Confirm that your result matches the Ottergram page shown in the book.
-Create a screenshots directory in your repository.
-Play the CSS Diner and Flexbox Froggy games.
-Take screenshots of the completed final level of each game and place them in the screenshots/ directory.
-Push the contents of your ottergram directory into a new public GitHub repository.
+1. Create a free account on GitHub, if you do not already have one.
+2. Install and configure a Git client (e.g., git, SourceTree, or GitHub Desktop).
+3. Read the Hello World GitHub Guide and configure your computer for use with GitHub.
+4. Work through Chapter 1, installing and configuring the required software.
+5. Work through Chapter 2, creating styles.css and index.html and downloading and extracting front-end-dev-resources.zip.
+6. Confirm that your result matches the page shown in the book.
+7. Complete the Silver Challenge: Adding a favicon.ico.
+8. Create a new public GitHub repository and push the contents of your ottergram directory.
 Grading
-How to know if the assignment has been successfully completed:
-When you visit http://localhost:3000 with browser-sync running, do you see the Ottergram page?
-Does the appearance of the page match Figure 4.27?
-Have you run the atom-beautify plugin?
-Do you have a new repository for this assignment?
-Is there a screenshots subdirectory?
-Have you completed Level 32 of CSS Diner and taken a screenshot?
-Have you completed Level 24 of Flexbox Froggy and taken a screenshot?
-Have you checked in the changes from this assignment and pushed them to GitHub?
 
-
+How do I know if the assignment has been successfully completed?
+* Do you have a GitHub account?
+* Is there a new public repository for Ottergram?
+* Does the repository include all the required files?
+* Is there a stylesheets subdirectory?
+* Have you installed the Atom plugins listed in Chapter 1?
+* Have you fixed any issues detected by the Atom plugins?
+* Have you run the atom-beautify plugin?
+* Is browser-sync running?
+* When you visit http://localhost:3000, do you see the Ottergram page?
+* Does the appearance of the page match Figure 2.15?
+* Does the browser tab show your favicon.ico?
